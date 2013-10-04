@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['elems',['elems',['../classprevirt_1_1proto_1_1_previrt_type___vec.html#a9a33bcc51d06718dd63d735b7224faae',1,'previrt::proto::PrevirtType_Vec::elems(int index) const '],['../classprevirt_1_1proto_1_1_previrt_type___vec.html#a2f3823b451ee99130798585a0bc0a094',1,'previrt::proto::PrevirtType_Vec::elems() const ']]],
+  ['elems_5f',['elems_',['../classprevirt_1_1proto_1_1_previrt_type___vec.html#a90d0ef58d9114dc4fe243843117eaf3c',1,'previrt::proto::PrevirtType_Vec']]],
+  ['elems_5fsize',['elems_size',['../classprevirt_1_1proto_1_1_previrt_type___vec.html#a93e4c01661d26bb1e8f3399235a03f91',1,'previrt::proto::PrevirtType_Vec']]],
+  ['emitentrytest',['emitEntryTest',['../structprevirt_1_1_function_contract.html#a3f6477761741ce9e6f4938038a90ca01',1,'previrt::FunctionContract::emitEntryTest()'],['../structprevirt_1_1_or_contract.html#a81cb5eea555ac48a2ef0bb4f1a9bf586',1,'previrt::OrContract::emitEntryTest()'],['../structprevirt_1_1_singleton_type_contract.html#adaefe23231b5ebdbce74be1214499e27',1,'previrt::SingletonTypeContract::emitEntryTest()']]],
+  ['end',['end',['../classprevirt_1_1_component_interface.html#a40721c78e7debd3e627e30d8ed289fe7',1,'previrt::ComponentInterface']]],
+  ['enforce_5fmacro',['ENFORCE_MACRO',['../_enforce_interface_8cpp.html#ad67defeac05346ce442e78e6e112bad0',1,'EnforceInterface.cpp']]],
+  ['enforceinterface',['EnforceInterface',['../classprevirt_1_1proto_1_1_enforce_interface.html',1,'previrt::proto']]],
+  ['enforceinterface',['EnforceInterface',['../class_enforce_interface.html',1,'EnforceInterface'],['../classprevirt_1_1proto_1_1_enforce_interface.html#a30b38927eeef1f9f29d6093b082dcf74',1,'previrt::proto::EnforceInterface::EnforceInterface()'],['../classprevirt_1_1proto_1_1_enforce_interface.html#a1c8f1a4758ec59e6e4131910b621c816',1,'previrt::proto::EnforceInterface::EnforceInterface(const EnforceInterface &amp;from)'],['../namespaceprevirt.html#a4073bf4f7ef84d2fe5fdda68199885d2',1,'previrt::enforceInterface(Module &amp;M, ComponentInterface &amp;T, bool inside)'],['../namespaceprevirt.html#a5931fe14f42ba359ee2f417abeb2409a',1,'previrt::enforceInterface(llvm::Module &amp;M, ComponentInterface &amp;, bool)']]],
+  ['enforceinterface_2ecpp',['EnforceInterface.cpp',['../_enforce_interface_8cpp.html',1,'']]],
+  ['enforceinterface_5fdescriptor_5f',['EnforceInterface_descriptor_',['../namespaceprevirt_1_1proto_1_1anonymous__namespace_02_previrt_8pb_8cc_03.html#a0f8402c5d524071c539a8403a2715e95',1,'previrt::proto::anonymous_namespace{Previrt.pb.cc}']]],
+  ['enforceinterface_5ffunctions',['EnforceInterface_Functions',['../classprevirt_1_1proto_1_1_enforce_interface___functions.html#a3d8d3c7f155b4429eb11725849617a52',1,'previrt::proto::EnforceInterface_Functions::EnforceInterface_Functions()'],['../classprevirt_1_1proto_1_1_enforce_interface___functions.html#a17f2c22f958171c230d9a1d2cb1759c7',1,'previrt::proto::EnforceInterface_Functions::EnforceInterface_Functions(const EnforceInterface_Functions &amp;from)']]],
+  ['enforceinterface_5ffunctions',['EnforceInterface_Functions',['../classprevirt_1_1proto_1_1_enforce_interface___functions.html',1,'previrt::proto']]],
+  ['enforceinterface_5ffunctions_5fdescriptor_5f',['EnforceInterface_Functions_descriptor_',['../namespaceprevirt_1_1proto_1_1anonymous__namespace_02_previrt_8pb_8cc_03.html#ace6eb8b35f873fc3ede1be4c1eb89873',1,'previrt::proto::anonymous_namespace{Previrt.pb.cc}']]],
+  ['enforceinterface_5ffunctions_5freflection_5f',['EnforceInterface_Functions_reflection_',['../namespaceprevirt_1_1proto_1_1anonymous__namespace_02_previrt_8pb_8cc_03.html#a1be76f2a8b01a2a45b6e4576f2c9dcff',1,'previrt::proto::anonymous_namespace{Previrt.pb.cc}']]],
+  ['enforceinterface_5freflection_5f',['EnforceInterface_reflection_',['../namespaceprevirt_1_1proto_1_1anonymous__namespace_02_previrt_8pb_8cc_03.html#add9fdc32e4893c6298ec429cb225ae7c',1,'previrt::proto::anonymous_namespace{Previrt.pb.cc}']]],
+  ['enforceinterfaceinside',['enforceInterfaceInside',['../namespaceprevirt.html#afaceca929a3006ef34c429d710704086',1,'previrt']]],
+  ['enforceinterfaceoutside',['enforceInterfaceOutside',['../namespaceprevirt.html#a5794eab5088980ed86cea671077c2540',1,'previrt']]],
+  ['eqcache',['EqCache',['../classprevirt_1_1_previrt_type.html#a64e41c9c9cd80eda99e7a9d41b3d52ff',1,'previrt::PrevirtType']]],
+  ['event',['Event',['../classprevirt_1_1proto_1_1_action_tree.html#a8c453f55417df079b8022b845020e693',1,'previrt::proto::ActionTree::Event()'],['../classprevirt_1_1proto_1_1_action_tree.html#a3abb3762ea22cada1df58cc6d80ea138',1,'previrt::proto::ActionTree::event() const '],['../namespaceprevirt_1_1proto.html#aff65f71a46f8ebb611fdd3608b3e9704a1d082d00d5a021eeb417376e170d216c',1,'previrt::proto::EVENT()']]],
+  ['event_5f',['event_',['../classprevirt_1_1proto_1_1_action_tree.html#ab808c308f9f5a45b23ec027bc0a62530',1,'previrt::proto::ActionTree']]],
+  ['exact_5fmatch',['EXACT_MATCH',['../_previrt_types_8h.html#a06fe2ca7e49ff16440f06620f863deaf',1,'PrevirtTypes.h']]],
+  ['exit',['exit',['../classprevirt_1_1proto_1_1_action_tree___event.html#a19b1badd009b37c8bff86de368a8bcbc',1,'previrt::proto::ActionTree_Event']]],
+  ['exit_5f',['exit_',['../classprevirt_1_1proto_1_1_action_tree___event.html#a48be1b5afabec64a8993cbdba3d19a50',1,'previrt::proto::ActionTree_Event']]],
+  ['externalcallingnode',['ExternalCallingNode',['../classanonymous__namespace_02_a_a_call_graph_8cpp_03_1_1_a_a_call_graph.html#ae7f88432689a914a5cb75280b067cb4c',1,'anonymous_namespace{AACallGraph.cpp}::AACallGraph']]]
+];
